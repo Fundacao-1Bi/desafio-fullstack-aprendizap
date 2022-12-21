@@ -43,7 +43,7 @@ Cada pasta contém um projeto separado, back em Node e front em React. Você pod
 ## Entrega
 A entrega do projeto deve-se ser realizada até 02/01/2023.
  
-Você deve criar um novo repositório no seu GitHub pessoal para fazer sua implementação. Visando evitar cópias, não recomendamos criar um fork do repositório base, sendo recomendado apenas fazer clone local em sua máquina em seguida apontar para o seu repositório, de preferência privado. 
+Você deverá criar um novo repositório no seu GitHub pessoal para fazer sua implementação. Por favor, não crie um fork do repositório base, apenas faça o clone local em sua máquina em seguida copie os arquivos para o seu repositório e faça o push, recomendamos também que mantenha seu repositório privado. 
 
 Caso opte por criar um repositório privado, convide ao repositório os usuários @flaugusto e @OtacilioN no GitHub para que possamos ter acesso a revisar. 
 
